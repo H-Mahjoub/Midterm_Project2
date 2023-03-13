@@ -1,4 +1,7 @@
 Hi
-this is a new text file for second midterm project.
-line3
+this is a new text file for second midterm project!!!
 line4
+line5
+line6
+Bye
+
