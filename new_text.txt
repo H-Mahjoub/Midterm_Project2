@@ -1,0 +1,4 @@
+Hi
+this is a new text file for second midterm project.
+line3
+line4
