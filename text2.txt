@@ -1,6 +1,7 @@
 Hi again, this is text2
 line3
-line6
+line6 changed
 line7
 line8
+line 9
 bye bye!
